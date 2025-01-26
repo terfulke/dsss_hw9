@@ -2,7 +2,7 @@ from langchain_ollama import OllamaLLM
 import requests
 from datetime import datetime
 
-bot_token = "8095084101:AAGYCS_mt4i1vBiYQ3TYcW-LilsOo2US2Pk"
+bot_token = "......"    # here is my bot_token
 base_url = f"https://api.telegram.org/bot{bot_token}"
 log_file = "messages.log"
 
